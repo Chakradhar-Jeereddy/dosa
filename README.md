@@ -14,3 +14,4 @@
 * batter
 * panner
 * oil
+* veggies
