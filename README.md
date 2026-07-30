@@ -7,3 +7,4 @@
 
 # Karam dosa
 * dosa batter
+* masala
