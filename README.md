@@ -12,3 +12,4 @@
 
 # panner dosa
 * batter
+* panner
